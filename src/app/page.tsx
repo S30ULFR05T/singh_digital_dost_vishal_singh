@@ -42,7 +42,7 @@ export default function Home() {
           </div>
 
           <div className="mobile-menu-btn" onClick={() => setMenuOpen(!menuOpen)}>
-
+            <FontAwesomeIcon icon={faBars} />
           </div>
 
           <nav className={menuOpen ? "active" : ""}>
