@@ -181,7 +181,7 @@ export default function Home() {
                   socials: [
                     { href: "https://www.facebook.com/profile.php?id=61579282844058", icon: faFacebookF },
                     { href: "https://www.instagram.com/singhdigitaldost/", icon: faInstagram },
-                    { href: "https://www.linkedin.com/in/vishal-singh-6b650519b/", icon: faInstagram },
+                    { href: "https://www.linkedin.com/in/vishal-singh-6b650519b/", icon: faLinkedinIn },
                   ],
                 },
               ].map((c, i) => (
