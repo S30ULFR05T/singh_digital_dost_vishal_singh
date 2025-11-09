@@ -173,7 +173,7 @@ export default function Home() {
             <div className="contact-info">
               {[
                 { icon: faPhone, title: "Phone", value: "+91 8882884292" },
-                { icon: faEnvelope, title: "Email", value: "vs250651@gmail.com" },
+                { icon: faEnvelope, title: "Email", value: "info@singhdigitaldost.in" },
                 {
                   icon: faShareAlt,
                   title: "Social Media",
